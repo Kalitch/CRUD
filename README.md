@@ -13,4 +13,4 @@
   </ul>
 </p>
 <p>Pré-visualização:</p>
-<img src="https://imgur.com/a/nM7MR" alt="Tela de edição - CRUD WEB">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/nM7MR"><a href="//imgur.com/nM7MR">Tela de edição - CRUD WEB</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
