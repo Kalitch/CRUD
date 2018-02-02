@@ -1,7 +1,7 @@
-<h1>Sistema de Cadastro de empregados (CRUD)</h1>
-<p>Autor: Marcelo de Castro<br>E-mail: Marcelof730@gmail.com</p>
-<p>Sistema em desenvolvimento.</p>
-<p>Ferramentas utilizadas:
+<h1>Employee Registration System (CRUD)</h1>
+<p>Author: Marcelo de Castro<br>E-mail: Marcelof730@gmail.com</p>
+<p>Work in progress.</p>
+<p>Tools used:
   <ul>
     <li>Spring</li>
     <li>Hibernate</li>
@@ -12,5 +12,5 @@
 	<li>Maven</li>
   </ul>
 </p>
-<p>Pré-visualização:</p>
-<img src="https://i.imgur.com/x81aOy7.png" alt="Tela de edição - CRUD">
+<p>Preview:</p>
+<img src="https://i.imgur.com/x81aOy7.png" alt="Edit screen - CRUD">
