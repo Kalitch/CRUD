@@ -1,5 +1,5 @@
 <h1>Employee Registration System (CRUD)</h1>
-<p>Author: Marcelo de Castro<br>E-mail: Marcelof730@gmail.com</p>
+
 <p>Work in progress.</p>
 <p>Tools used:
   <ul>
